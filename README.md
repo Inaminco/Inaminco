@@ -100,7 +100,7 @@ What I'm into:
 
 ## 🚀 پروژه‌های برجسته | Featured Projects
 
-> — یه نمونه‌ی الگو:
+> — :
 
 <div align="center">
 
