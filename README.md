@@ -104,7 +104,7 @@ What I'm into:
 
 <div align="center">
 
-<a href="https://github.com/yourusername/project-one">
+<a href="https://github.com/Inaminco/Inaminco">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=radical&hide_border=true"/>
 </a>
 <a href="https://github.com/yourusername/project-two">
