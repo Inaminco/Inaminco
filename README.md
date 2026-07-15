@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Inaminco&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -83,16 +83,16 @@ What I'm into:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Inaminco&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inaminco&layout=compact&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Inaminco&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Inaminco&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -100,15 +100,10 @@ What I'm into:
 
 ## 🚀 پروژه‌های برجسته | Featured Projects
 
-> — :
-
 <div align="center">
 
-<a href="https://github.com/Inaminco/Inaminco">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Inaminco&repo=Inaminco&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/yourusername/project-two">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=radical&hide_border=true"/>
+<a href="https://github.com/Inaminco/rust-scanner">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Inaminco&repo=rust-scanner&theme=radical&hide_border=true"/>
 </a>
 
 </div>
